@@ -1,4 +1,5 @@
 #include "Buffer.h"
+#include <cstdint>
 
 Buffer::Buffer(const string& nomeArquivo) : arquivo(nomeArquivo) {}
 

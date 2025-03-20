@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     // arquivo de entrada
-    string arquivo_entrada = "dados.txt";
+    string arquivo_entrada = "Dados.txt";
 
     // vetor para armazenar os registros
     vector<Registro> registros;

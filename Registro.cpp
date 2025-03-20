@@ -1,6 +1,7 @@
 #include "Registro.h"
 #include <sstream>
 #include <iomanip>
+#include <cstdint>
 #include <cstring>
 
 Registro::Registro(string n, string s, string t, string d) 
